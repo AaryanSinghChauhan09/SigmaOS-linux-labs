@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-linux-labs"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS linux-labs component"
+
+[lib]
+name = "linux_labs"
+path = "src/lib.rs"
